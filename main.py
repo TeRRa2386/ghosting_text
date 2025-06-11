@@ -1,4 +1,5 @@
 import customtkinter as ctk
+from tkinter import filedialog
 from docx import Document
 from fpdf import FPDF
 from fpdf.enums import XPos, YPos
